@@ -1,0 +1,15 @@
+Flask
+Jinja2
+jsonschema
+lxml
+OWSLib
+pyproj
+requests
+Shapely
+Werkzeug
+SQLAlchemy
+psutil
+psycopg2
+utm
+Fiona
+-e git+https://github.com/geopython/pywps.git@master#egg=pywps-master
